@@ -65,7 +65,7 @@ Each project added to this repository will typically include:
 
 ---
 
-## 🚀 Future Enhancements
+## 🚀 Some Technologies:
 
 some projects  I extended into  beyond traditional dashboards by integrating advanced technologies such as:
 
