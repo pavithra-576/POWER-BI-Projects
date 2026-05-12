@@ -86,7 +86,7 @@ If you find this repository useful:
 * 🍴 Fork it
 * 📢 Share it with others
 
----
+----
 
 ## 📌 Note
 
